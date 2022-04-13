@@ -1,0 +1,278 @@
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {  }
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {  }
+@media (max-width: 991.98px) { 
+    .picture {
+       
+        max-width: 400px !important;
+       
+    }
+    .women{
+        width: 50%;
+          top: -2%;
+    }
+    .women20{
+        max-width: 170px;
+    }
+    .watch{
+        max-width: 180px !important;
+        right: 20px;
+    }
+    .real1 {
+        text-align: center;
+    }
+    .beautiful {
+        margin-top: 40px;
+    }
+    .discover{
+        border: none;
+    }
+    .big h3 {
+        color: #713c25;
+        font-size: 170px;
+        position: absolute;
+        top: -320px;
+        left: -14px;
+        z-index: 2;
+    }
+    .beauty h4 {
+        color: #c26e42;
+        font-size: 170px;
+        position: absolute;
+        left: 100px;
+        top: -187px;
+        z-index: 1;
+    }
+    .curvy-ass {
+        position: absolute;
+        top: -45%;
+        right: 50%;
+        transform: translateX(50%);
+        max-width: 700px;
+    }
+    .ignore {
+        text-align: center;
+        border: none;
+        padding-left: 0%;
+      
+    }
+    .models {
+        margin-top: 300px;
+    }
+    .ignore p {
+        top: -126px;
+        left: 50%;
+        transform: translateX(-50%);
+    border-right: none;
+    border-bottom: 1px solid #713c25;
+    }
+    .ignore button{
+        padding: 10px 40px;
+    }
+    .ass {
+        margin-top: 12px;
+    }
+    .blogg h2{
+        top: -302px;
+        left: -12px;
+    }
+    .girl2{
+        background-position: 35% 100%;
+    }
+    
+    .Peter p {
+        padding-top: 62px;
+    font-size: 25px;
+    }
+
+    .four-block img {
+        max-width: 230px;
+    }
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+    .look-book h2 {
+        bottom: -315px;
+    }
+    .look-book h3 {
+        
+        bottom: -210px;
+    }
+ }
+
+ @media (min-width: 992px){
+    .picture {
+        
+        margin-top: 111px;
+        right: 157px;
+    }
+ }
+
+ @media  (max-width: 767.98px) { 
+
+    .picture {
+       
+        max-width: 390px !important;
+        margin-top: 50px;
+    }
+    .women20 {
+        max-width: 130px;
+    }
+    .watch {
+        max-width: 110px !important;
+        right: 20px;
+    }
+    .real h2 {
+        font-size: 50px;
+        padding-right: 100px;
+        color: #713c25;
+    }
+    .beauty h4 {
+        
+        font-size: 140px;
+        
+    }
+    .big h3 {
+        
+        font-size: 140px;
+        left: 7px;
+    }
+    .blogg h2 {
+        left: 8px;
+    }
+    .pause p {
+        font-size: 35px;
+        padding: 30px 30px 0 30px;
+    }
+    .fa-pause {
+        font-size: 70px;
+        margin-bottom: 70px;
+    }
+    .look-book h2 {
+        
+        font-size: 170px;
+        
+        left: 20px;
+        
+    }
+    .look-book h3 {
+        font-size: 170px;
+        left: 106px;
+        bottom: -235px;
+    }
+    .look-book p {
+        top: 360px;
+    }
+    .Peter p {
+        margin-top: -88px;
+      border-bottom: 1px solid #713c25;
+        text-align: center;
+        font-size: 23px;
+    }
+
+ }
+
+ @media (max-width: 575.98px) { 
+    .women20 {
+        max-width: 80px;
+        top: 80px;
+    }
+    .picture {
+       
+        max-width: 276px !important;
+        margin-top: 85px;
+    }
+    .women {
+        width: 43%;
+        top: 4%;
+    }
+    .badge-gol {
+        right: 16px;
+        max-width: 80px !important;
+    }
+    .watch {
+        max-width: 86px !important;
+        left: 3px;
+        bottom: 0px;
+    }
+    .big h3 {
+        font-size: 110px;
+        left: 9px;
+        top: -280px;
+    }
+    .beauty h4 {
+        font-size: 120px;
+        left: 9px;
+    }
+    .blogg h2 {
+        left: 18px;
+        top: -278px;
+    }
+    .look-book h3 {
+        font-size: 125px;
+        left: 29px;
+        bottom: -288px;
+    }
+    .look-book h2 {
+        font-size: 120px;
+        top: 337px;
+        left: -22px;
+    }
+    .pause p {
+        font-size: 20px;
+        padding: 10px 10px 0 10px;
+    }
+    .pause h2 {
+        font-size: 15px;
+        padding-bottom: 5px;
+    }
+    .fa-pause {
+        font-size: 50px;
+        margin-bottom: 36px;
+    }
+    .badge-left img {
+        margin-top: 18px;
+        margin-bottom: 20px;
+        max-width: 80px !important;
+    }
+    .badge-left p {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+    .badge-left h6 {
+        font-size: 15px;
+        margin-bottom: 23px;
+    }
+    .ignore p {
+        top: -218px;
+        
+        font-size: 22px;
+    }
+    .brand {
+       
+        margin-left: -16px;
+    }
+    .badge-right img {
+        max-width: 81px !important;
+    }
+  }
+  @media (max-width: 371px){
+    .big h3 {
+        font-size: 100px;
+        left: 8px;
+        top: -285px;
+    }
+    .beauty h4 {
+        font-size: 100px;
+        left: 7px;
+    }
+  }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {  }
+
+
+@media (min-width: 1200px) {  }
