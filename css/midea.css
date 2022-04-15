@@ -251,6 +251,7 @@
         top: -218px;
         
         font-size: 22px;
+        text-align: center;
     }
     .brand {
        
@@ -258,6 +259,17 @@
     }
     .badge-right img {
         max-width: 81px !important;
+    }
+    .ass p {
+        color: #713c25;
+        text-align: center;
+        padding-top: 30px;
+    }
+    .girl{
+        padding-bottom: 400px;
+    }
+    .curvy-ass {
+        top: -35%;
     }
   }
   @media (max-width: 371px){
