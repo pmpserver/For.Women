@@ -103,15 +103,11 @@
         bottom: -210px;
     }
     .return ul{
-        padding: 0%;
-        text-align: center;
+        padding: 0;
+    margin: 0;
+    text-align: center;
     }
-    .last-1{
-        padding-bottom: 30px;
-    }
-    .navbar-nav li{
-        border-bottom: 0.5px solid #c78968;
-    }
+
  }
 
  @media (min-width: 992px){
@@ -282,6 +278,26 @@
         top: -35%;
     }
   }
+  @media (max-width: 440px){
+    .picture {
+        
+        margin-top: 131px;
+    }
+    .women {
+        width: 50%;
+        top: 18%;
+        z-index: 1;
+    }
+    .women20 {
+        max-width: 81px;
+        top: 80px;
+    }
+    .badge-gol {
+       
+        top: 16px;
+    }
+  }
+
   @media (max-width: 371px){
     .big h3 {
         font-size: 100px;
